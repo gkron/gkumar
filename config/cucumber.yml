@@ -1,0 +1,18 @@
+default: -r ../features TEST_ENV=TRUNKMCOM
+qamcom: -r ../features TEST_ENV=QAMCOM
+tuning: -r ../features TEST_ENV=Tuning
+cell5mcom: -r features/support -r features/step_definitions features ENV_FILE=saturnmcomcell5.yml 
+cell5bcom: -r features/support -r features/step_definitions features ENV_FILE=saturnbcomcell5.yml
+trunkmcom: -r features/support -r features/step_definitions features ENV_FILE=trunkmcom.yml 
+trunkmcom207: -r features/support -r features/step_definitions features ENV_FILE=trunkmcom207.yml
+trunkbcom: -r features/support -r features/step_definitions features ENV_FILE=trunkbcom.yml
+trunkbcom208: -r features/support -r features/step_definitions features ENV_FILE=trunkbcom208.yml
+qabcom: -r features/support -r features/step_definitions features ENV_FILE=qabcom.yml
+regressionbcom: -r features/support -r features/step_definitions features ENV_FILE=regressionbcom.yml
+regressionmcom: -r features/support -r features/step_definitions features TEST_ENV=REGRESSIONMCOM ENV_FILE=regressionmcom.yml
+performancemcom: -r features/support -r features/step_definitions features ENV_FILE=performancemcom.yml
+prodbcom: -r ../features TEST_ENV=PRODBCOM
+prodmcom: -r ../features TEST_ENV=PRODMCOM
+performancebcom: -r features/support -r features/step_definitions features ENV_FILE=performancebcom.yml
+stagingmcom: -r features/support -r features/step_definitions features ENV_FILE=stagingmcom.yml 
+stagingbcom: -r features/support -r features/step_definitions features ENV_FILE=stagingbcom.yml 

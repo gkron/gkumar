@@ -1,0 +1,1629 @@
+CAT_ID,ATTR_NAME,ATTR_VALUE,SEQ_NBR
+16961,'BRAND','Burberry',1
+16961,'BRAND','Dolce Vita',2
+16961,'BRAND','Salvatore Ferragamo',3
+16961,'BRAND','Gucci',4
+16961,'BRAND','Jeffrey Campbell',5
+16961,'BRAND','kate spade new york',6
+16961,'BRAND','MICHAEL Michael Kors',7
+16961,'BRAND','Sam Edelman',8
+16961,'BRAND','Stuart Weitzman',9
+16961,'BRAND','Tory Burch',10
+1000674,'BRAND','B Brian Atwood',1
+1000674,'BRAND','Burberry',2
+1000674,'BRAND','Chloé',3
+1000674,'BRAND','Delman',4
+1000674,'BRAND','Salvatore Ferragamo',5
+1000674,'BRAND','Gucci',6
+1000674,'BRAND','Giuseppe Zanotti',7
+1000674,'BRAND','L.K.Bennett',8
+1000674,'BRAND','Paul Green',9
+1000674,'BRAND','Stuart Weitzman',10
+17400,'BRAND','Ash',1
+17400,'BRAND','Burberry',2
+17400,'BRAND','Converse',3
+17400,'BRAND','DKNY',4
+17400,'BRAND','Gucci',5
+17400,'BRAND','Giuseppe Zanotti',6
+17400,'BRAND','MICHAEL Michael Kors',7
+17400,'BRAND','Nike',8
+17400,'BRAND','Superga',9
+17400,'BRAND','Vans',10
+3866,'BRAND','Ralph Lauren',1
+3866,'BRAND','Burberry',2
+3866,'BRAND','AQUA',3
+3866,'BRAND','Joe's Jeans',4
+3866,'BRAND','7 For All Mankind',5
+3866,'BRAND','True Religion',6
+3866,'BRAND','Splendid',7
+3866,'BRAND','Hudson',8
+3866,'BRAND','Brooks Brothers',9
+3866,'BRAND','UPPAbaby',10
+3866,'BRAND','Bugaboo',11
+3866,'BRAND','Little Me',12
+23707,'BRAND','Ralph Lauren',1
+23707,'BRAND','Burberry',2
+23707,'BRAND','Bugaboo',3
+23707,'BRAND','Little Me',4
+23707,'BRAND','UPPAbaby',5
+23707,'BRAND','Kissy Kissy',6
+23707,'BRAND','Splendid',7
+23707,'BRAND','7 For All Mankind',8
+23707,'BRAND','True Religion',9
+23707,'BRAND','Hartstrings',10
+23707,'BRAND','Sara Kety',11
+23707,'BRAND','Jacadi',12
+10104,'BRAND','AQUA',1
+10104,'BRAND','Burberry',2
+10104,'BRAND','Ralph Lauren',3
+10104,'BRAND','Joe's Jeans',4
+10104,'BRAND','7 For All Mankind',5
+10104,'BRAND','True Religion',6
+10104,'BRAND','Splendid',7
+10104,'BRAND','Hudson',8
+10104,'BRAND','Flowers by Zoe',9
+10104,'BRAND','Egg by Susan Lazar',10
+10104,'BRAND','Zoe',11
+10104,'BRAND','Vintage Havana',12
+10147,'BRAND','Ralph Lauren',1
+10147,'BRAND','Burberry',2
+10147,'BRAND','Under Armour',3
+10147,'BRAND','Lacoste',4
+10147,'BRAND','Diesel',5
+10147,'BRAND','Brooks Brothers',6
+10147,'BRAND','True Religion',7
+10147,'BRAND','PUMA',8
+10147,'BRAND','7 For All Mankind',9
+10147,'BRAND','Joe's Jeans',10
+10147,'BRAND','Volcom',11
+10147,'BRAND','Armani Junior',12
+1001238,'BRAND','Burberry',1
+1001238,'BRAND','MICHAEL Michael Kors',2
+1001238,'BRAND','Stuart Weitzman',3
+1001238,'BRAND','Cole Haan',4
+1001238,'BRAND','Nike',5
+1001238,'BRAND','Mini Melissa',6
+1001238,'BRAND','Hunter',7
+1001238,'BRAND','Steve Madden',8
+1001238,'BRAND','Converse',9
+1001238,'BRAND','Bloch',10
+1001238,'BRAND','Superga',11
+1001238,'BRAND','Sam Edelman',12
+3865,'BRAND','Keurig',1
+3865,'BRAND','Hudson Park',2
+3865,'BRAND','Villeroy & Boch',3
+3865,'BRAND','Ralph Lauren',4
+3865,'BRAND','All-Clad',5
+3865,'BRAND','Calvin Klein',6
+3865,'BRAND','Cuisinart',7
+3865,'BRAND','Sferra',8
+3865,'BRAND','Michael Aram',9
+3865,'BRAND','Sky',10
+3865,'BRAND','Waterford',11
+3865,'BRAND','Oake',12
+3865,'BRAND','Nespresso',13
+3865,'BRAND','Charisma',14
+3865,'BRAND','Breville',15
+3865,'BRAND','John Robshaw',16
+3865,'BRAND','De'Longhi',17
+3865,'BRAND','Abyss',18
+3865,'BRAND','Dyson',19
+3865,'BRAND','Matouk',20
+3865,'BRAND','Bernardaud',21
+3865,'BRAND','Barbara Barry',22
+3865,'BRAND','Juliska',23
+3865,'BRAND','Frette',24
+3865,'BRAND','kate spade new york',25
+3865,'BRAND','Lenox',26
+3865,'BRAND','William Yeoward',27
+3865,'BRAND','Alessi',28
+3865,'BRAND','Riedel',29
+3865,'BRAND','10 Strawberry Street',30
+3865,'BRAND','Kosta Boda',31
+3865,'BRAND','Olivia Riegel',32
+3865,'BRAND','BIA Cordon Bleu',33
+3865,'BRAND','Cambridge Silversmiths',34
+3865,'BRAND','Wallace',35
+3865,'BRAND','Starbucks',36
+3865,'BRAND','Capresso',37
+3865,'BRAND','Krups',38
+3865,'BRAND','Sonicare',39
+3865,'BRAND','Orrefors',40
+3865,'BRAND','Swarovski',41
+3865,'BRAND','Argento',42
+3865,'BRAND','Norelco',43
+3865,'BRAND','Joseph Joseph',44
+3865,'BRAND','Simply Designz',45
+3865,'BRAND','Schmidt Brothers',46
+3865,'BRAND','Victorinox',47
+3865,'BRAND','Bodum',48
+3865,'BRAND','Reed & Barton',49
+3865,'BRAND','Tizo',50
+3865,'BRAND','Sferra',51
+3865,'BRAND','Dubost',52
+3865,'BRAND','Hurom',53
+3865,'BRAND','Waechtersbach',54
+3865,'BRAND','Lalique',55
+3865,'BRAND','Jars',56
+3865,'BRAND','Royal Stafford',57
+3865,'BRAND','Royal Copenhagen',58
+3865,'BRAND','Royal Crown Derby',59
+3865,'BRAND','Royal Worcester & Spode',60
+3865,'BRAND','WMF/USA',61
+3865,'BRAND','Arte Italica',62
+3865,'BRAND','Haviland',63
+3865,'BRAND','Portmeirion',64
+3865,'BRAND','Demeyere',65
+3865,'BRAND','Emile Henry',66
+3865,'BRAND','Bosch',67
+3865,'BRAND','simplehuman',68
+3865,'BRAND','Ralph Lauren',69
+3865,'BRAND','Couzon',70
+3865,'BRAND','Raynaud',71
+3865,'BRAND','Ginkgo',72
+3865,'BRAND','Iittala',73
+3865,'BRAND','Bormioli Rocco',74
+3865,'BRAND','Zak Designs Inc.',75
+3865,'BRAND','Wüsthof',76
+1000243,'BRAND','Hudson Park',1
+1000243,'BRAND','Ralph Lauren' ,2
+1000243,'BRAND','Calvin Klein',3
+1000243,'BRAND','Bloomingdale's',4
+1000243,'BRAND','SFERRA',5
+1000243,'BRAND','Sky',6
+1000243,'BRAND','FRETTE',7
+1000243,'BRAND','JR by John Robshaw',8
+1000243,'BRAND','Donna Karan',9
+1000243,'BRAND','Charisma',10
+1000243,'BRAND','Barbara Barry',11
+1000243,'BRAND','Oake',12
+1000257,'BRAND','Tumi',1
+1000257,'BRAND','Victorinox',2
+1000257,'BRAND','Hartmann',3
+1000257,'BRAND','Delsey',4
+1000257,'BRAND','Bric's',5
+1000257,'BRAND','Briggs & Riley',6
+1000257,'BRAND','Rimowa',7
+1000257,'BRAND','MCM',8
+1000257,'BRAND','Samsonite Black Label',9
+1000257,'BRAND','Road Warrior',10
+1000257,'BRAND','Biaggi',11
+1000257,'BRAND','T-Tech by Tumi,12
+1000231,'BRAND','Bernardaud',1
+1000231,'BRAND','Juliska',2
+1000231,'BRAND','kate spade new york',3
+1000231,'BRAND','Lenox',4
+1000231,'BRAND','Michael Aram',5
+1000231,'BRAND','Oscar De La Renta',6
+1000231,'BRAND','Rosenthal',7
+1000231,'BRAND','Scalamandre by Lenox' ,8
+1000231,'BRAND','Villeroy & Boch' ,9
+1000231,'BRAND','Wedgwood',10
+1000231,'BRAND','Waterford',11
+1000231,'BRAND','Vera Wang',12
+1000233,'BRAND','Cambridge Silversmiths',1
+1000233,'BRAND','Christofle',2
+1000233,'BRAND','Couzon',3
+1000233,'BRAND','Juliska',4
+1000233,'BRAND','Lenox',5
+1000233,'BRAND','Villeroy & Boch',6
+1000233,'BRAND','Nambé' ,7
+1000233,'BRAND','Ricci Argentieri',8
+1000233,'BRAND','Rosenthal',9
+1000233,'BRAND','Wallace',10
+1000233,'BRAND','kate spade new york',11
+1000233,'BRAND','Waterford',12
+1000232,'BRAND','Baccarat',1
+1000232,'BRAND','Juliska',2
+1000232,'BRAND','Michael Aram',3
+1000232,'BRAND','Nambé' ,4
+1000232,'BRAND','Villeroy & Boch',5
+1000232,'BRAND','Waterford',6
+1000232,'BRAND','Luigi Bormioli',7
+1000232,'BRAND','Riedel',8
+1000232,'BRAND','William Yeoward',9
+1000232,'BRAND','Orrefors',10
+1000232,'BRAND','Vera Wang',11
+1000232,'BRAND','Spiegelau',12
+1000234,'BRAND','kate spade new york',1
+1000234,'BRAND','Juliska',2
+1000234,'BRAND','Michael Aram',3
+1000234,'BRAND','Waterford',4
+1000234,'BRAND','Nambé' ,5
+1000234,'BRAND','Villeroy & Boch',6
+1000234,'BRAND','William Yeoward',7
+1000234,'BRAND','Oscar de La Renta',8
+1000234,'BRAND','Julia Knight',9
+1000234,'BRAND','Kosta Boda',10
+1000234,'BRAND','Wedgwood',11
+1000234,'BRAND','Mariposa',12
+1000235,'BRAND','All-Clad',1
+1000235,'BRAND','Emile Henry',2
+1000235,'BRAND','Calphalon',3
+1000235,'BRAND','Cuisinart',4
+1000235,'BRAND','Juliska',5
+1000235,'BRAND','Michael Aram',6
+1000235,'BRAND','OXO',7
+1000235,'BRAND','Nordic Ware',8
+1000235,'BRAND','Kaiser',9
+1000235,'BRAND','Dansk',10
+1000235,'BRAND','Anolon',11
+1000235,'BRAND','WMF/USA',12
+1000236,'BRAND','Nespresso',1
+1000236,'BRAND','Keurig',2
+1000236,'BRAND','Cuisinart',3
+1000236,'BRAND','Breville',4
+1000236,'BRAND','De'Longhi',5
+1000236,'BRAND','Krups',6
+1000236,'BRAND','iCoffee',7
+1000236,'BRAND','Starbucks',8
+1000236,'BRAND','Jura',9
+1000236,'BRAND','KitchenAid',10
+1000236,'BRAND','Bialetti',11
+1000236,'BRAND','Nick Munro',12
+1000237,'BRAND','All-Clad',1
+1000237,'BRAND','Calphalon',2
+1000237,'BRAND','Staub',3
+1000237,'BRAND','Cuisinart',4
+1000237,'BRAND','Scanpan',5
+1000237,'BRAND','Fontignac',6
+1000237,'BRAND','Anolon',7
+1000237,'BRAND','Demeyere',8
+1000237,'BRAND','Ballarini',9
+1000237,'BRAND','Fissler',10
+1000237,'BRAND','Zwilling J.A. Henckels' ,11
+1000237,'BRAND','Emile Henry',12
+1000238,'BRAND','J.A. Henckels International',1
+1000238,'BRAND','Zwilling J.A. Henckels' ,2
+1000238,'BRAND','Shun',3
+1000238,'BRAND','Schmidt Brothers',4
+1000238,'BRAND','Dubost',5
+1000238,'BRAND','Global',6
+1000238,'BRAND','All-Clad',7
+1000238,'BRAND','Wüsthof',8
+1000238,'BRAND','Victorinox',9
+1000238,'BRAND','Calphalon',10
+1000238,'BRAND','Architec',11
+1000239,'BRAND','Breville',1
+1000239,'BRAND','Cuisinart',2
+1000239,'BRAND','De'Longhi',3
+1000239,'BRAND','Jura',4
+1000239,'BRAND','Keurig',5
+1000239,'BRAND','KitchenAid',6
+1000239,'BRAND','Omega',7
+1000239,'BRAND','Nespresso',8
+1000239,'BRAND','Sodastream',9
+1000239,'BRAND','Vitamix',10
+1000239,'BRAND','Dash',11
+1000239,'BRAND','Hurom',12
+1000239,'BRAND','Kyocera',12
+1000240,'BRAND','All-Clad',1
+1000240,'BRAND','Calphalon',2
+1000240,'BRAND','Cuisinart',3
+1000240,'BRAND','Michael Aram',4
+1000240,'BRAND','Nambé' ,5
+1000240,'BRAND','OXO',6
+1000240,'BRAND','WMF/USA',7
+1000240,'BRAND','simplehuman',8
+1000240,'BRAND','Joseph Joseph',9
+1000240,'BRAND','Zak Designs Inc.' ,10
+1000240,'BRAND','Microplane',11
+1000240,'BRAND','Bisbell',12
+1001539,'BRAND','Michael Aram',1
+1001539,'BRAND','Nambé' ,2
+1001539,'BRAND','Baccarat',3
+1001539,'BRAND','Bernardaud',4
+1001539,'BRAND','Waterford',5
+1001539,'BRAND','Lalique',6
+1001539,'BRAND','kate spade new york',7
+1001539,'BRAND','Juliska',8
+1001539,'BRAND','Kosta Boda',9
+1001539,'BRAND','William Yeoward',10
+1001539,'BRAND','Villeroy & Boch',11
+1001539,'BRAND','Christofle',12
+1000242,'BRAND','Hudson Park',1
+1000242,'BRAND','Abyss',2
+1000242,'BRAND','FRETTE ',3
+1000242,'BRAND','Matouk',4
+1000242,'BRAND','Kassatex',5
+1000242,'BRAND','Vipp',6
+1000242,'BRAND','Waterworks',7
+1000242,'BRAND','Kassatex',8
+1000242,'BRAND','Lacoste',9
+1000242,'BRAND','Ralph Lauren' ,10
+1000242,'BRAND','Arlotta',11
+1000242,'BRAND','Mike and Ally',12
+1000246,'BRAND','Chilewich',1
+1000246,'BRAND','Waterford',2
+1000246,'BRAND','Kim Seybert',3
+1000246,'BRAND','SFERRA',4
+1000246,'BRAND','Modern-twist' ,5
+1000246,'BRAND','Caspari',6
+1000246,'BRAND','Juliska',7
+1000246,'BRAND','JR by John Robshaw',8
+1000246,'BRAND','Ralph Lauren',9
+1000246,'BRAND','Michael Aram',10
+1000246,'BRAND','Madhouse by Michael Aram' ,11
+1000246,'BRAND','Oscar de la Renta',12
+1001541,'BRAND','Michael Aram',1
+1001541,'BRAND','Nambé' ,2
+1001541,'BRAND','Baccarat',3
+1001541,'BRAND','Bernardaud',4
+1001541,'BRAND','Waterford',5
+1001541,'BRAND','Lalique',6
+1001541,'BRAND','kate spade new york',7
+1001541,'BRAND','Juliska',8
+1001541,'BRAND','Kosta Boda',9
+1001541,'BRAND','William Yeoward',10
+1001541,'BRAND','Villeroy & Boch',11
+1001541,'BRAND','Christofle',12
+1001542,'BRAND','Michael Aram',1
+1001542,'BRAND','Votivo',2
+1001542,'BRAND','Voluspa',3
+1001542,'BRAND','Archipelago',4
+1001542,'BRAND','Waterford',5
+1001542,'BRAND','Baccarat',6
+1001542,'BRAND','kate spade new york',7
+1001542,'BRAND','Juliska',8
+1001542,'BRAND','Kosta Boda',9
+1001542,'BRAND','William Yeoward',10
+1001542,'BRAND','Villeroy & Boch',11
+1001542,'BRAND','NEST Fragrances',12
+1001543,'BRAND','Michael Aram',1
+1001543,'BRAND','Nambé' ,2
+1001543,'BRAND','Baccarat',3
+1001543,'BRAND','Bernardaud',4
+1001543,'BRAND','Waterford',5
+1001543,'BRAND','Lalique',6
+1001543,'BRAND','kate spade new york',7
+1001543,'BRAND','Juliska',8
+1001543,'BRAND','Kosta Boda',9
+1001543,'BRAND','William Yeoward',10
+1001543,'BRAND','Villeroy & Boch',11
+1001543,'BRAND','Christofle',12
+1001544,'BRAND','Waterman',1
+1001544,'BRAND','BOSCA,2
+1001544,'BRAND','Lily Pulitzer,3
+1001544,'BRAND','Sugar Paper,4
+1001544,'BRAND','Montblanc',5
+1001544,'BRAND','kate spade new york',6
+1001544,'BRAND','Crane & Co',7
+1001544,'BRAND','Montegrappa,8
+1001544,'BRAND','kate spade new york',9
+1001544,'BRAND','Ralph Lauren',10
+1001544,'BRAND','Waterford',11
+1001544,'BRAND','Lalique',12
+1001545,'BRAND','Christopher Radko,1
+1001545,'BRAND','Bloomingdale's',2
+1001545,'BRAND','Joy to the World,3
+1001545,'BRAND','Karen Didion Originals,4
+1001545,'BRAND','Landmark Creations,5
+1001545,'BRAND','Patience Brewster,6
+1001545,'BRAND','Michael Aram',7
+1001545,'BRAND','kate spade new york',8
+1001545,'BRAND','Baccarat',9
+1001545,'BRAND','Lalique',10
+1001545,'BRAND','Orrefors',11
+1001545,'BRAND','Juliska',12
+1001547,'BRAND','Michael Aram',1
+1001547,'BRAND','Nambé' ,2
+1001547,'BRAND','Baccarat',3
+1001547,'BRAND','Bernardaud',4
+1001547,'BRAND','Waterford',5
+1001547,'BRAND','Lalique',6
+1001547,'BRAND','kate spade new york',7
+1001547,'BRAND','Juliska',8
+1001547,'BRAND','Kosta Boda',9
+1001547,'BRAND','William Yeoward',10
+1001547,'BRAND','Villeroy & Boch',11
+1001547,'BRAND','Christofle',12
+1001548,'BRAND','Arlotta',1
+1001548,'BRAND','Hudson Park',2
+1001548,'BRAND','Matouk',3
+1001548,'BRAND','Sferra,4
+1001548,'BRAND','Waterford',5
+1001548,'BRAND','JR by John Robshaw',6
+1001548,'BRAND','Ralph Lauren',7
+1001548,'BRAND','Sky',8
+1001548,'BRAND','Donna Karan',9
+1001548,'BRAND','Blissliving Home',10
+1001548,'BRAND','Vera Wang',11
+1001548,'BRAND','Charisma',12
+1001549,'BRAND','Michael Aram',1
+1001549,'BRAND','Nambé' ,2
+1001549,'BRAND','Baccarat',3
+1001549,'BRAND','Bernardaud',4
+1001549,'BRAND','Waterford',5
+1001549,'BRAND','Lalique',6
+1001549,'BRAND','kate spade new york',7
+1001549,'BRAND','Juliska',8
+1001549,'BRAND','Kosta Boda',9
+1001549,'BRAND','William Yeoward',10
+1001549,'BRAND','Villeroy & Boch',11
+1001549,'BRAND','Christofle',12
+23489,'BRAND','Tumi',1
+23489,'BRAND','Rimowa',2
+23489,'BRAND','Victorinox',3
+23489,'BRAND','Hartmann',4
+23489,'BRAND','Delsey',5
+23489,'BRAND','Bric's',6
+23489,'BRAND','Briggs & Riley',7
+23489,'BRAND','Samsonite Black Label',8
+23489,'BRAND','MCM',9
+23489,'BRAND','Road Warrior',10
+23489,'BRAND','Biaggi',11
+23489,'BRAND','T-Tech by Tumi,12
+23490,'BRAND','Tumi',1
+23490,'BRAND','Rimowa',2
+23490,'BRAND','Victorinox',3
+23490,'BRAND','Hartmann',4
+23490,'BRAND','Delsey',5
+23490,'BRAND','Bric's',6
+23490,'BRAND','Briggs & Riley',7
+23490,'BRAND','Samsonite Black Label',8
+23490,'BRAND','MCM',9
+23490,'BRAND','Road Warrior',10
+23490,'BRAND','Biaggi',11
+23490,'BRAND','T-Tech by Tumi,12
+23491,'BRAND','Tumi',1
+23491,'BRAND','Rimowa',2
+23491,'BRAND','Victorinox',3
+23491,'BRAND','Hartmann',4
+23491,'BRAND','Delsey',5
+23491,'BRAND','Bric's',6
+23491,'BRAND','Briggs & Riley',7
+23491,'BRAND','Samsonite Black Label',8
+23491,'BRAND','MCM',9
+23491,'BRAND','Road Warrior',10
+23491,'BRAND','Biaggi',11
+23491,'BRAND','T-Tech by Tumi,12
+23492,'BRAND','Tumi',1
+23492,'BRAND','Rimowa',2
+23492,'BRAND','Victorinox',3
+23492,'BRAND','Hartmann',4
+23492,'BRAND','Delsey',5
+23492,'BRAND','Bric's',6
+23492,'BRAND','Briggs & Riley',7
+23492,'BRAND','Samsonite Black Label',8
+23492,'BRAND','MCM',9
+23492,'BRAND','Road Warrior',10
+23492,'BRAND','Biaggi',11
+23492,'BRAND','T-Tech by Tumi,12
+23501,'BRAND','Tumi',1
+23501,'BRAND','Rimowa',2
+23501,'BRAND','Victorinox',3
+23501,'BRAND','Hartmann',4
+23501,'BRAND','Delsey',5
+23501,'BRAND','Bric's',6
+23501,'BRAND','Briggs & Riley',7
+23501,'BRAND','Samsonite Black Label',8
+23501,'BRAND','MCM',9
+23501,'BRAND','Road Warrior',10
+23501,'BRAND','Biaggi',11
+23501,'BRAND','T-Tech by Tumi,12
+23502,'BRAND','Tumi',1
+23502,'BRAND','Rimowa',2
+23502,'BRAND','Victorinox',3
+23502,'BRAND','Hartmann',4
+23502,'BRAND','Delsey',5
+23502,'BRAND','Bric's',6
+23502,'BRAND','Briggs & Riley',7
+23502,'BRAND','Samsonite Black Label',8
+23502,'BRAND','MCM',9
+23502,'BRAND','Road Warrior',10
+23502,'BRAND','Biaggi',11
+23502,'BRAND','T-Tech by Tumi,12
+23504,'BRAND','Tumi',1
+23504,'BRAND','Rimowa',2
+23504,'BRAND','Victorinox',3
+23504,'BRAND','Hartmann',4
+23504,'BRAND','Delsey',5
+23504,'BRAND','Bric's',6
+23504,'BRAND','Briggs & Riley',7
+23504,'BRAND','Samsonite Black Label',8
+23504,'BRAND','MCM',9
+23504,'BRAND','Road Warrior',10
+23504,'BRAND','Biaggi',11
+23504,'BRAND','T-Tech by Tumi,12
+5566,'BRAND','Calvin Klein Underwear',1
+5566,'BRAND','Chantelle',2
+5566,'BRAND','L'Agent by Agent Provocateur',3
+5566,'BRAND','Cosabella',4
+5566,'BRAND','Hanky Panky',5
+5566,'BRAND','Le Mystere',6
+5566,'BRAND','Natori',7
+5566,'BRAND','SPANX®',8
+5566,'BRAND','Wacoal',9
+5566,'BRAND','Yummie Tummie',10
+17613,'BRAND','Calvin Klein Underwear',1
+17613,'BRAND','Chantelle',2
+17613,'BRAND','L'Agent by Agent Provocateur',3
+17613,'BRAND','Cosabella',4
+17613,'BRAND','Hanky Panky',5
+17613,'BRAND','Le Mystere',6
+17613,'BRAND','Natori',7
+17613,'BRAND','SPANX®',8
+17613,'BRAND','Wacoal',9
+17613,'BRAND','Yummie Tummie',10
+22314,'BRAND','HUE',1
+22314,'BRAND','Wolford',2
+22314,'BRAND','SPANX®',3
+22314,'BRAND','kate spade new york',4
+22314,'BRAND','Pretty Polly',5
+22314,'BRAND','Happy Socks',6
+22314,'BRAND','DKNY',7
+22314,'BRAND','Donna Karan Hosiery',8
+22314,'BRAND','Falke',9
+22314,'BRAND','Ralph Lauren',10
+22316,'BRAND','HUE',1
+22316,'BRAND','Wolford',2
+22316,'BRAND','SPANX®',3
+22316,'BRAND','kate spade new york',4
+22316,'BRAND','Pretty Polly',5
+22316,'BRAND','Happy Socks',6
+22316,'BRAND','DKNY',7
+22316,'BRAND','Donna Karan Hosiery',8
+22316,'BRAND','Falke',9
+22316,'BRAND','Ralph Lauren',10
+3637,'BRAND','HUE',1
+3637,'BRAND','Wolford',2
+3637,'BRAND','SPANX®',3
+3637,'BRAND','kate spade new york',4
+3637,'BRAND','Pretty Polly',5
+3637,'BRAND','Happy Socks',6
+3637,'BRAND','DKNY',7
+3637,'BRAND','Donna Karan Hosiery',8
+3637,'BRAND','Falke',9
+3637,'BRAND','Ralph Lauren',10
+21429,'BRAND','Eileen West',1
+21429,'BRAND','Carole Hochman',2
+21429,'BRAND','Natori',3
+21429,'BRAND','Oscar de la Renta Pink Label',4
+21429,'BRAND','Oscar de la Renta Signature',5
+21429,'BRAND','Ralph Lauren',6
+21429,'BRAND','DKNY',7
+21429,'BRAND','Hanro',8
+21429,'BRAND','Flora Nikrooz',9
+21429,'BRAND','Midnight by Carole Hochman',10
+21434,'BRAND','Eberjey',1
+21434,'BRAND','PJ Salvage',2
+21434,'BRAND','Calvin Klein Underwear',3
+21434,'BRAND','Juicy Couture',4
+21434,'BRAND','Splendid Intimates',5
+21434,'BRAND','Underella by Ella Moss',6
+21434,'BRAND','UGG® Australia',7
+21434,'BRAND','Josie',8
+21434,'BRAND','Kensie',9
+21434,'BRAND','In Bloom by Jonquil',10
+8701,'BRAND','Alex and Ani',1
+8701,'BRAND','Alexis Bittar',2
+8701,'BRAND','AQUA',3
+8701,'BRAND','PANDORA',4
+8701,'BRAND','Michael Kors',5
+8701,'BRAND','Nadri',6
+8701,'BRAND','MARC BY MARC JACOBS',7
+8701,'BRAND','Chan Luu',8
+8701,'BRAND','Links of London',9
+8701,'BRAND','kate spade new york',10
+3628,'BRAND','Alex and Ani',1
+3628,'BRAND','Roni Blanshay',2
+3628,'BRAND','PANDORA',3
+3628,'BRAND','Michael Kors',4
+3628,'BRAND','Alexis Bittar',5
+3628,'BRAND','kate spade new york',6
+3628,'BRAND','Ralph Lauren',7
+3628,'BRAND','AQUA',8
+3628,'BRAND','MARC BY MARC JACOBS',9
+3628,'BRAND','Nadri',10
+3629,'BRAND','Alex and Ani',1
+3629,'BRAND','Michael Kors',2
+3629,'BRAND','Alexis Bittar',3
+3629,'BRAND','kate spade new york',4
+3629,'BRAND','Ralph Lauren',5
+3629,'BRAND','Carolee',6
+3629,'BRAND','House of Harlow 1960',7
+3629,'BRAND','AQUA',8
+3629,'BRAND','MARC BY MARC JACOBS',9
+3629,'BRAND','Dogeared',10
+3630,'BRAND','Alexis Bittar',1
+3630,'BRAND','AQUA',2
+3630,'BRAND','Alex and Ani',3
+3630,'BRAND','Crislu',4
+3630,'BRAND','Dogeared',5
+3630,'BRAND','House of Harlow 1960',6
+3630,'BRAND','kate spade new york',7
+3630,'BRAND','MARC BY MARC JACOBS',8
+3630,'BRAND','Michael Kors',9
+3630,'BRAND','PANDORA',10
+20033,'BRAND','Michael Kors',1
+20033,'BRAND','kate spade new york',2
+20033,'BRAND','Alex and Ani',3
+20033,'BRAND','Alexis Bittar',4
+20033,'BRAND','Dogeared',5
+20033,'BRAND','Ralph Lauren',6
+20033,'BRAND','House of Harlow 1960',7
+20033,'BRAND','MARC BY MARC JACOBS',8
+20033,'BRAND','PANDORA',9
+20033,'BRAND','Carolee',10
+20532,'BRAND','MICHELE',1
+20532,'BRAND','Michael Kors',2
+20532,'BRAND','Burberry',3
+20532,'BRAND','MARC BY MARC JACOBS',4
+20532,'BRAND','kate spade new york',5
+20532,'BRAND','Nixon',6
+20532,'BRAND','G-Shock',7
+20532,'BRAND','Emporio Armani',8
+20532,'BRAND','Shinola',9
+20532,'BRAND','Victorinox Swiss Army',10
+21311,'BRAND','Burberry',1
+21311,'BRAND','C by Bloomingdale's',2
+21311,'BRAND','AQUA',3
+21311,'BRAND','DIANE von FURSTENBERG',4
+21311,'BRAND','Tory Burch',5
+21311,'BRAND','MARC BY MARC JACOBS',6
+21311,'BRAND','kate spade new york',7
+21311,'BRAND','Salvatore Ferragamo',8
+21311,'BRAND','Echo',9
+21311,'BRAND','Ralph Lauren',10
+20034,'BRAND','Burberry',1
+20034,'BRAND','C by Bloomingdale's',2
+20034,'BRAND','AQUA',3
+20034,'BRAND','DIANE von FURSTENBERG',4
+20034,'BRAND','Tory Burch',5
+20034,'BRAND','MARC BY MARC JACOBS',6
+20034,'BRAND','kate spade new york',7
+20034,'BRAND','Salvatore Ferragamo',8
+20034,'BRAND','Echo',9
+20034,'BRAND','Ralph Lauren',10
+4520,'BRAND','Ray-Ban',1
+4520,'BRAND','Tom Ford',2
+4520,'BRAND','Gucci',3
+4520,'BRAND','Dior',4
+4520,'BRAND','Prada',5
+4520,'BRAND','MARC BY MARC JACOBS',6
+4520,'BRAND','kate spade new york',7
+4520,'BRAND','Tory Burch',8
+4520,'BRAND','Jimmy Choo',9
+4520,'BRAND','Michael Kors',10
+1000066,'BRAND','Michael Kors',1
+1000066,'BRAND','MARC BY MARC JACOBS',2
+1000066,'BRAND','Burberry',3
+1000066,'BRAND','Shinola',4
+1000066,'BRAND','G-Shock',5
+1000066,'BRAND','Emporio Armani',6
+1000066,'BRAND','Armani Exchange',7
+1000066,'BRAND','Nixon',8
+1000066,'BRAND','Victorinox Swiss Army',9
+1000066,'BRAND','Jack Spade',10
+5070,'BRAND','Burberry',1
+5070,'BRAND','COACH',2
+5070,'BRAND','kate spade new york',3
+5070,'BRAND','Longchamp',4
+5070,'BRAND','MARC BY MARC JACOBS',5
+5070,'BRAND','MCM',6
+5070,'BRAND','MICHAEL Michael Kors',7
+5070,'BRAND','Rebecca Minkoff',8
+5070,'BRAND','Salvatore Ferragamo',9
+5070,'BRAND','Tory Burch',10
+16958,'BRAND','Burberry',1
+16958,'BRAND','COACH',2
+16958,'BRAND','kate spade new york',3
+16958,'BRAND','Longchamp',4
+16958,'BRAND','MARC BY MARC JACOBS',5
+16958,'BRAND','MCM',6
+16958,'BRAND','MICHAEL Michael Kors',7
+16958,'BRAND','Rebecca Minkoff',8
+16958,'BRAND','Salvatore Ferragamo',9
+16958,'BRAND','Tory Burch',10
+17309,'BRAND','Badgley Mischka',1
+17309,'BRAND','COACH',2
+17309,'BRAND','DIANE von FURSTENBERG',3
+17309,'BRAND','kate spade new york',4
+17309,'BRAND','KOTUR',5
+17309,'BRAND','MARC BY MARC JACOBS',6
+17309,'BRAND','MICHAEL Michael Kors',7
+17309,'BRAND','Milly',8
+17309,'BRAND','Rebecca Minkoff',9
+17309,'BRAND','Sondra Roberts',10
+17310,'BRAND','Burberry',1
+17310,'BRAND','COACH',2
+17310,'BRAND','Cole Haan',3
+17310,'BRAND','kate spade new york',4
+17310,'BRAND','Longchamp',5
+17310,'BRAND','MARC BY MARC JACOBS',6
+17310,'BRAND','MICHAEL Michael Kors',7
+17310,'BRAND','Rebecca Minkoff',8
+17310,'BRAND','Salvatore Ferragamo',9
+17310,'BRAND','Tory Burch',10
+17311,'BRAND','Burberry',1
+17311,'BRAND','COACH',2
+17311,'BRAND','kate spade new york',3
+17311,'BRAND','Liebeskind',4
+17311,'BRAND','MARC BY MARC JACOBS',5
+17311,'BRAND','MICHAEL Michael Kors',6
+17311,'BRAND','Rebecca Minkoff',7
+17311,'BRAND','Salvatore Ferragamo',8
+17311,'BRAND','Tory Burch',9
+17311,'BRAND','VINCE CAMUTO',10
+17312,'BRAND','Burberry',1
+17312,'BRAND','COACH',2
+17312,'BRAND','DIANE von FURSTENBERG',3
+17312,'BRAND','kate spade new york',4
+17312,'BRAND','MARC BY MARC JACOBS',5
+17312,'BRAND','MICHAEL Michael Kors',6
+17312,'BRAND','Rebecca Minkoff',7
+17312,'BRAND','Salvatore Ferragamo',8
+17312,'BRAND','Tory Burch',9
+17312,'BRAND','ZAC Zac Posen',10
+17314,'BRAND','Burberry',1
+17314,'BRAND','COACH',2
+17314,'BRAND','DKNY',3
+17314,'BRAND','kate spade new york',4
+17314,'BRAND','Longchamp',5
+17314,'BRAND','MARC BY MARC JACOBS',6
+17314,'BRAND','MICHAEL Michael Kors',7
+17314,'BRAND','Rebecca Minkoff',8
+17314,'BRAND','Salvatore Ferragamo',9
+17314,'BRAND','Tory Burch',10
+17426,'BRAND','Burberry',1
+17426,'BRAND','COACH',2
+17426,'BRAND','kate spade new york',3
+17426,'BRAND','Longchamp',4
+17426,'BRAND','MARC BY MARC JACOBS',5
+17426,'BRAND','MCM',6
+17426,'BRAND','MICHAEL Michael Kors',7
+17426,'BRAND','Rebecca Minkoff',8
+17426,'BRAND','Salvatore Ferragamo',9
+17426,'BRAND','Tory Burch',10
+19993,'BRAND','COACH',1
+19993,'BRAND','Cole Haan',2
+19993,'BRAND','kate spade new york',3
+19993,'BRAND','Lauren Ralph Lauren',4
+19993,'BRAND','Longchamp',5
+19993,'BRAND','MARC BY MARC JACOBS',6
+19993,'BRAND','MICHAEL Michael Kors',7
+19993,'BRAND','Salvatore Ferragamo',8
+19993,'BRAND','Tory Burch',9
+19993,'BRAND','ZAC Zac Posen',10
+21485,'BRAND','Audiology',1
+21485,'BRAND','COACH',2
+21485,'BRAND','DIANE von FURSTENBERG',3
+21485,'BRAND','Incase',4
+21485,'BRAND','Jimmy Crystal',5
+21485,'BRAND','kate spade new york',6
+21485,'BRAND','MARC BY MARC JACOBS',7
+21485,'BRAND','MICHAEL Michael Kors',8
+21485,'BRAND','MILLY',9
+21485,'BRAND','Tory Burch',10
+22308,'BRAND','Burberry',1
+22308,'BRAND','COACH',2
+22308,'BRAND','kate spade new york',3
+22308,'BRAND','Longchamp',4
+22308,'BRAND','MARC BY MARC JACOBS',5
+22308,'BRAND','Marc Jacobs',6
+22308,'BRAND','MICHAEL Michael Kors',7
+22308,'BRAND','Rebecca Minkoff',8
+22308,'BRAND','Salvatore Ferragamo',9
+22308,'BRAND','Tory Burch',10
+22309,'BRAND','Burberry',1
+22309,'BRAND','COACH',2
+22309,'BRAND','kate spade new york',3
+22309,'BRAND','Longchamp',4
+22309,'BRAND','MARC BY MARC JACOBS',5
+22309,'BRAND','DIANE von FURSTENBERG',6
+22309,'BRAND','MICHAEL Michael Kors',7
+22309,'BRAND','Lauren by Ralph Lauren',8
+22309,'BRAND','Salvatore Ferragamo',9
+22309,'BRAND','Tory Burch',10
+22310,'BRAND','Burberry',1
+22310,'BRAND','COACH',2
+22310,'BRAND','kate spade new york',3
+22310,'BRAND','Longchamp',4
+22310,'BRAND','MARC BY MARC JACOBS',5
+22310,'BRAND','Marc Jacobs',6
+22310,'BRAND','MICHAEL Michael Kors',7
+22310,'BRAND','Rebecca Minkoff',8
+22310,'BRAND','Salvatore Ferragamo',9
+22310,'BRAND','Tory Burch',10
+22559,'BRAND','COACH',1
+22559,'BRAND','Cole Haan',2
+22559,'BRAND','Furla',3
+22559,'BRAND','kate spade new york',4
+22559,'BRAND','Lauren Ralph Lauren',5
+22559,'BRAND','Longchamp',6
+22559,'BRAND','MARC BY MARC JACOBS',7
+22559,'BRAND','MICHAEL Michael Kors',8
+22559,'BRAND','Rebecca Minkoff',9
+22559,'BRAND','Tory Burch',10
+23173,'BRAND','Burberry',1
+23173,'BRAND','COACH',2
+23173,'BRAND','kate spade new york',3
+23173,'BRAND','Longchamp',4
+23173,'BRAND','MARC BY MARC JACOBS',5
+23173,'BRAND','MCM',6
+23173,'BRAND','MICHAEL Michael Kors',7
+23173,'BRAND','Rebecca Minkoff',8
+23173,'BRAND','Salvatore Ferragamo',9
+23173,'BRAND','Tory Burch',10
+1000229,'BRAND','Burberry',1
+1000229,'BRAND','COACH',2
+1000229,'BRAND','kate spade new york',3
+1000229,'BRAND','Longchamp',4
+1000229,'BRAND','MARC BY MARC JACOBS',5
+1000229,'BRAND','DIANE von FURSTENBERG',6
+1000229,'BRAND','MICHAEL Michael Kors',7
+1000229,'BRAND','Rebecca Minkoff',8
+1000229,'BRAND','Salvatore Ferragamo',9
+1000229,'BRAND','Tory Burch',10
+1000341,'BRAND','Anya Hindmarch',1
+1000341,'BRAND','B Brian Atwood',2
+1000341,'BRAND','Burberry',3
+1000341,'BRAND','Furla',4
+1000341,'BRAND','Longchamp',5
+1000341,'BRAND','Marc Jacobs',6
+1000341,'BRAND','Max Mara',7
+1000341,'BRAND','MCM',8
+1000341,'BRAND','Michael Kors',9
+1000341,'BRAND','Salvatore Ferragamo',10
+1000369,'BRAND','kate spade new york',1
+1000369,'BRAND','LeSportsac',2
+1000369,'BRAND','Longchamp',3
+1000369,'BRAND','MARC BY MARC JACOBS',4
+1000369,'BRAND','MCM',5
+1000369,'BRAND','Rebecca Minkoff',6
+1000369,'BRAND','Skip Hop',7
+1000369,'BRAND','Storksak',8
+1000369,'BRAND','Tory Burch',9
+1000415,'BRAND','Burberry',1
+1000415,'BRAND','kate spade new york',2
+1000415,'BRAND','Lauren Ralph Lauren',3
+1000415,'BRAND','Lesportsac',4
+1000415,'BRAND','Longchamp',5
+1000415,'BRAND','MARC BY MARC JACOBS',6
+1000415,'BRAND','MCM',7
+1000415,'BRAND','MICHAEL Michael Kors',8
+1000415,'BRAND','Tory Burch',9
+1000415,'BRAND','Ted Baker',10
+1000416,'BRAND','Audiology',1
+1000416,'BRAND','COACH',2
+1000416,'BRAND','DIANE von FURSTENBERG',3
+1000416,'BRAND','Incase',4
+1000416,'BRAND','Jimmy Crystal',5
+1000416,'BRAND','kate spade new york',6
+1000416,'BRAND','MARC BY MARC JACOBS',7
+1000416,'BRAND','MICHAEL Michael Kors',8
+1000416,'BRAND','MILLY',9
+1000416,'BRAND','Tory Burch',10
+1000417,'BRAND','Burberry',1
+1000417,'BRAND','COACH',2
+1000417,'BRAND','DIANE von FURSTENBERG',3
+1000417,'BRAND','kate spade new york',4
+1000417,'BRAND','Lauren Ralph Lauren',5
+1000417,'BRAND','Longchamp',6
+1000417,'BRAND','MARC BY MARC JACOBS',7
+1000417,'BRAND','MICHAEL Michael Kors',8
+1000417,'BRAND','Salvatore Ferragamo',9
+1000417,'BRAND','Tory Burch',10
+1000431,'BRAND','Burberry',1
+1000431,'BRAND','COACH',2
+1000431,'BRAND','DIANE von FURSTENBERG',3
+1000431,'BRAND','kate spade new york',4
+1000431,'BRAND','Lauren Ralph Lauren',5
+1000431,'BRAND','Longchamp',6
+1000431,'BRAND','MARC BY MARC JACOBS',7
+1000431,'BRAND','MICHAEL Michael Kors',8
+1000431,'BRAND','Rebecca Minkoff',9
+1000431,'BRAND','Tory Burch',10
+1001396,'BRAND','Burberry',1
+1001396,'BRAND','COACH',2
+1001396,'BRAND','kate spade new york',3
+1001396,'BRAND','Longchamp',4
+1001396,'BRAND','MARC BY MARC JACOBS',5
+1001396,'BRAND','MCM',6
+1001396,'BRAND','MICHAEL Michael Kors',7
+1001396,'BRAND','Rebecca Minkoff',8
+1001396,'BRAND','Salvatore Ferragamo',9
+1001396,'BRAND','Tory Burch',10
+11548,'BRAND','Burberry',1
+11548,'BRAND','Ralph Lauren',2
+11548,'BRAND','Moncler',3
+11548,'BRAND','HUGO BOSS',4
+11548,'BRAND','The North Face®',5
+11548,'BRAND','The North Face®',6
+11548,'BRAND','Canada Goose',7
+11548,'BRAND','Marc New York',8
+11548,'BRAND','Andrew Marc',9
+11548,'BRAND','Theory',10
+10172,'BRAND','7 For All Mankind',1
+10172,'BRAND','True Religion',2
+10172,'BRAND','Diesel',3
+10172,'BRAND','AG Adriano Goldschmied',4
+10172,'BRAND','Joe's Jeans',5
+10172,'BRAND','J Brand',6
+10172,'BRAND','Hudson',7
+10172,'BRAND','Paige Denim',8
+10172,'BRAND','Citizens of Humanity',9
+10172,'BRAND','Black Label Denim',10
+10189,'BRAND','Theory',1
+10189,'BRAND','HUGO BOSS',2
+10189,'BRAND','Ralph Lauren',3
+10189,'BRAND','Burberry',4
+10189,'BRAND','John Varvatos',5
+10189,'BRAND','Michael Kors',6
+10189,'BRAND','MARC BY MARC JACOBS',7
+10189,'BRAND','Vineyard Vines',8
+10189,'BRAND','The Men's Store at Bloomingdale's',9
+10189,'BRAND','Vince',10
+1000663,'BRAND','Burberry',1
+1000663,'BRAND','Ralph Lauren',2
+1000663,'BRAND','Lacoste',3
+1000663,'BRAND','HUGO BOSS',4
+1000663,'BRAND','Michael Kors',5
+1000663,'BRAND','Fred Perry',6
+1000663,'BRAND','Theory',7
+1000663,'BRAND','The Men's Store at Bloomingdale's',8
+1000663,'BRAND','John Varvatos',9
+1000663,'BRAND','Vineyard Vines',10
+1000071,'BRAND','Vineyard Vines',1
+1000071,'BRAND','HUGO BOSS',2
+1000071,'BRAND','Burberry',3
+1000071,'BRAND','John Varvatos',4
+1000071,'BRAND','AG Adriano Goldschmied',5
+1000071,'BRAND','Theory',6
+1000071,'BRAND','Vince',7
+1000071,'BRAND','7 For All Mankind',8
+1000071,'BRAND','MARC BY MARC JACOBS',9
+1000071,'BRAND','Michael Kors',10
+1000072,'BRAND','Ralph Lauren',1
+1000072,'BRAND','HUGO BOSS',2
+1000072,'BRAND','Burberry',3
+1000072,'BRAND','Vilebrequin',4
+1000072,'BRAND','Paul Smith',5
+1000072,'BRAND','Vineyard Vines',6
+1000072,'BRAND','Original Penguin',7
+1000072,'BRAND','Saturdays Surf NYC',8
+1000072,'BRAND','Parke & Ronen',9
+1000072,'BRAND','MARC BY MARC JACOBS',10
+11576,'BRAND','Burberry',1
+11576,'BRAND','Vilebrequin',2
+11576,'BRAND','HUGO BOSS',3
+11576,'BRAND','Vineyard Vines',4
+11576,'BRAND','Original Penguin',5
+11576,'BRAND','MARC BY MARC JACOBS',6
+11576,'BRAND','Parke & Ronen',7
+11576,'BRAND','Ralph Lauren',8
+11576,'BRAND','Theory',9
+11576,'BRAND','Vince',10
+17648,'BRAND','Burberry',1
+17648,'BRAND','Ralph Lauren',2
+17648,'BRAND','HUGO BOSS',3
+17648,'BRAND','Theory',4
+17648,'BRAND','Michael Kors',5
+17648,'BRAND','John Varvatos',6
+17648,'BRAND','Vineyard Vines',7
+17648,'BRAND','Robert Graham',8
+17648,'BRAND','Vince',9
+17648,'BRAND','GANT',10
+1000074,'BRAND','Theory',1
+1000074,'BRAND','HUGO BOSS',2
+1000074,'BRAND','Armani Collezioni',3
+1000074,'BRAND','Ralph Lauren',4
+1000074,'BRAND','John Varvatos',5
+1000074,'BRAND','Burberry',6
+1000074,'BRAND','MARC BY MARC JACOBS',7
+1000074,'BRAND','Ted Baker',8
+1000074,'BRAND','Vince',9
+1000074,'BRAND','Canali',10
+11536,'BRAND','Burberry',1
+11536,'BRAND','HUGO BOSS',2
+11536,'BRAND','Ralph Lauren',3
+11536,'BRAND','ALTERNATIVE',4
+11536,'BRAND','Lacoste',5
+11536,'BRAND','Vince',6
+11536,'BRAND','Theory',7
+11536,'BRAND','Threads for Thought',8
+11536,'BRAND','Junk Food',9
+11536,'BRAND','Varvatos',10
+11536,'BRAND','Splendid',11
+10258,'BRAND','Ralph Lauren',1
+10258,'BRAND','Burberry',2
+10258,'BRAND','HUGO BOSS',3
+10258,'BRAND','The Men's Store at Bloomingdale's',4
+10258,'BRAND','John Varvatos',5
+10258,'BRAND','Vince',6
+10258,'BRAND','MARC BY MARC JACOBS',7
+10258,'BRAND','Theory',8
+10258,'BRAND','Michael Kors',9
+10258,'BRAND','Paul Smith',10
+17647,'BRAND','Eton',1
+17647,'BRAND','The Men's Store at Bloomingdale's',2
+17647,'BRAND','Burberry',3
+17647,'BRAND','Armani Collezioni',4
+17647,'BRAND','HUGO BOSS',5
+17647,'BRAND','Ike Behar',6
+17647,'BRAND','Thomas Pink',7
+17647,'BRAND','Canali',8
+17647,'BRAND','Brooks Brothers',9
+17647,'BRAND','John Varvatos',10
+10236,'BRAND','Burberry',1
+10236,'BRAND','Salvatore Ferragamo',2
+10236,'BRAND','HUGO BOSS',3
+10236,'BRAND','Armani Collezioni',4
+10236,'BRAND','Canali',5
+10236,'BRAND','Theory',6
+10236,'BRAND','Thomas Pink',7
+10236,'BRAND','John Varvatos',8
+10236,'BRAND','Valentino',9
+10236,'BRAND','Yves Saint Laurent',10
+10237,'BRAND','Calvin Klein',1
+10237,'BRAND','HUGO BOSS',2
+10237,'BRAND','Ralph Lauren',3
+10237,'BRAND','2(x)ist',4
+10237,'BRAND','Emporio Armani',5
+10237,'BRAND','Diesel',6
+10237,'BRAND','The Men's Store at Bloomingdale's',7
+10237,'BRAND','Paul Smith',8
+10237,'BRAND','Happy Socks',9
+10237,'BRAND','Spanx',10
+1000070,'BRAND','Salvatore Ferragamo',1
+1000070,'BRAND','Burberry',2
+1000070,'BRAND','HUGO BOSS',3
+1000070,'BRAND','Bally',4
+1000070,'BRAND','Longchamp',5
+1000070,'BRAND','Jack Spade',6
+1000070,'BRAND','MCM',7
+1000070,'BRAND','Frye',8
+1000070,'BRAND','Tumi',9
+1000070,'BRAND','Montblanc',10
+1000059,'BRAND','Salvatore Ferragamo',1
+1000059,'BRAND','Burberry',2
+1000059,'BRAND','HUGO BOSS',3
+1000059,'BRAND','Longchamp',4
+1000059,'BRAND','MCM',5
+1000059,'BRAND','Jack Spade',6
+1000059,'BRAND','MARC BY MARC JACOBS',7
+1000059,'BRAND','Frye',8
+1000059,'BRAND','Tumi',9
+1000059,'BRAND','John Varvatos',10
+1000060,'BRAND','Salvatore Ferragamo',1
+1000060,'BRAND','Burberry',2
+1000060,'BRAND','HUGO BOSS',3
+1000060,'BRAND','Bally',4
+1000060,'BRAND','John Varvatos',5
+1000060,'BRAND','The Men's Store at Bloomingdale's',6
+1000060,'BRAND','Ralph Lauren',7
+1000060,'BRAND','MCM',8
+1000061,'BRAND','Jan Leslie',1
+1000061,'BRAND','Salvatore Ferragamo',2
+1000061,'BRAND','Burberry',3
+1000061,'BRAND','Tateossian',4
+1000061,'BRAND','Paul Smith',5
+1000061,'BRAND','John Hardy',6
+1000061,'BRAND','Robin Rotinier',7
+1000061,'BRAND','Montblanc',8
+1000061,'BRAND','Scott Kay',9
+1000061,'BRAND','The Men's Store at Bloomingdale's',10
+1000833,'BRAND','HUGO BOSS',1
+1000833,'BRAND','Burberry',2
+1000833,'BRAND','Jack Spade',3
+1000833,'BRAND','Homedics',4
+1000833,'BRAND','MARC BY MARC JACOBS',5
+1000833,'BRAND','The Sharper Image',6
+1000833,'BRAND','Polaroid',7
+1000833,'BRAND','Canon',8
+1000833,'BRAND','Tumi',9
+1000065,'BRAND','Salvatore Ferragamo',1
+1000065,'BRAND','Burberry',2
+1000065,'BRAND','HUGO BOSS',3
+1000065,'BRAND','Montblanc',4
+1000065,'BRAND','Paul Smith',5
+1000065,'BRAND','Jack Spade',6
+1000065,'BRAND','Bally',7
+1000065,'BRAND','MCM',8
+1000065,'BRAND','Tumi',9
+1000065,'BRAND','Longchamp',10
+1000055,'BRAND','Salvatore Ferragamo',1
+1000055,'BRAND','HUGO BOSS',2
+1000055,'BRAND','Cole Haan',3
+1000055,'BRAND','To Boot New York',4
+1000055,'BRAND','John Varvatos',5
+1000055,'BRAND','Diesel',6
+1000055,'BRAND','Gucci',7
+1000055,'BRAND','Nike',8
+1000055,'BRAND','Church's',9
+1000055,'BRAND','MCM',10
+1000046,'BRAND','Salvatore Ferragamo',1
+1000046,'BRAND','HUGO BOSS',2
+1000046,'BRAND','Cole Haan',3
+1000046,'BRAND','To Boot New York',4
+1000046,'BRAND','John Varvatos',5
+1000046,'BRAND','Clarks',6
+1000046,'BRAND','Gordon Rush',7
+1000046,'BRAND','Frye',8
+1000046,'BRAND','Gucci',9
+1000046,'BRAND','UGG® Australia',10
+1001183,'BRAND','Salvatore Ferragamo',1
+1001183,'BRAND','HUGO BOSS',2
+1001183,'BRAND','Cole Haan',3
+1001183,'BRAND','John Varvatos',4
+1001183,'BRAND','To Boot New York',5
+1001183,'BRAND','Bruno Magli',6
+1001183,'BRAND','Church's',7
+1001183,'BRAND','Paul Smith',8
+1001183,'BRAND','Gucci',9
+1001183,'BRAND','Gordon Rush',10
+1000050,'BRAND','Salvatore Ferragamo',1
+1000050,'BRAND','HUGO BOSS',2
+1000050,'BRAND','Cole Haan',3
+1000050,'BRAND','John Varvatos',4
+1000050,'BRAND','To Boot New York',5
+1000050,'BRAND','Bruno Magli',6
+1000050,'BRAND','Charles Philip',7
+1000050,'BRAND','Bally',8
+1000050,'BRAND','Gordon Rush',9
+1000050,'BRAND','Gucci',10
+1001314,'BRAND','Cole Haan',1
+1001314,'BRAND','Paul Smith',2
+1001314,'BRAND','John Varvatos',3
+1001314,'BRAND','Salvatore Ferragamo',4
+1001314,'BRAND','Church's',5
+1001314,'BRAND','Gordon Rush',6
+1001314,'BRAND','HUGO BOSS',7
+1001314,'BRAND','To Boot New York',8
+1001314,'BRAND','Gucci',9
+1001314,'BRAND','Bruno Magli',10
+1000054,'BRAND','PUMA',1
+1000054,'BRAND','Nike',2
+1000054,'BRAND','Converse',3
+1000054,'BRAND','Salvatore Ferragamo',4
+1000054,'BRAND','Bally',5
+1000054,'BRAND','Gucci',6
+1000054,'BRAND','HUGO BOSS',7
+1000054,'BRAND','Vans',8
+1000054,'BRAND','Diesel',9
+1000054,'BRAND','Adidas Y-3',10
+1000051,'BRAND','Salvatore Ferragamo',1
+1000051,'BRAND','HUGO BOSS',2
+1000051,'BRAND','Nike',3
+1000051,'BRAND','John Varvatos',4
+1000051,'BRAND','UGG® Australia',5
+1000051,'BRAND','havaianas',6
+1000051,'BRAND','Gucci',7
+1000051,'BRAND','To Boot New York',8
+1000051,'BRAND','Paul Smith',9
+1000051,'BRAND','Bally',10
+1000177,'BRAND','Burberry',1
+1000177,'BRAND','Salvatore Ferragamo',2
+1000177,'BRAND','HUGO BOSS',3
+1000177,'BRAND','Theory',4
+1000177,'BRAND','The Men's Store at Bloomingdale's',5
+1000177,'BRAND','Brooks Brothers',6
+1000177,'BRAND','Eton',7
+1000177,'BRAND','John Varvatos',8
+1000177,'BRAND','Armani Collezioni',9
+1000177,'BRAND','Canali',10
+1002077,'BRAND','Burberry',1
+1002077,'BRAND','Theory',2
+1002077,'BRAND','MARC BY MARC JACOBS',3
+1002077,'BRAND','John Varvatos',4
+1002077,'BRAND','Vince',5
+1002077,'BRAND','HUGO BOSS',6
+1002077,'BRAND','Ralph Lauren',7
+1002077,'BRAND','Eton',8
+1002077,'BRAND','Thomas Pink',9
+1002077,'BRAND','Sandro',10
+14873,'BRAND','amika',1
+14873,'BRAND','Benefit',2
+14873,'BRAND','Bobbi Brown',3
+14873,'BRAND','Clarisonic',4
+14873,'BRAND','Laura Mercier',5
+14873,'BRAND','M·A·C',6
+14873,'BRAND','NARS',7
+14873,'BRAND','T3',8
+14873,'BRAND','Tria',9
+14873,'BRAND','Trish McEvoy',10
+20409,'BRAND','Aramis',1
+20409,'BRAND','Clarins',2
+20409,'BRAND','Clinique',3
+20409,'BRAND','Jack Black',4
+20409,'BRAND','Kiehl's Since 1851',5
+20409,'BRAND','Lab Series Skincare for Men',6
+20409,'BRAND','MALIN+GOETZ',7
+20409,'BRAND','Shiseido',8
+20409,'BRAND','Task Essential',9
+20409,'BRAND','The Art of Shaving',10
+1000067,'BRAND','Aramis',1
+1000067,'BRAND','Clarins',2
+1000067,'BRAND','Clinique',3
+1000067,'BRAND','Jack Black',4
+1000067,'BRAND','Kiehl's Since 1851',5
+1000067,'BRAND','Lab Series Skincare for Men',6
+1000067,'BRAND','MALIN+GOETZ',7
+1000067,'BRAND','Shiseido',8
+1000067,'BRAND','Task Essential',9
+1000067,'BRAND','The Art of Shaving',10
+14861,'BRAND','Borghese',1
+14861,'BRAND','Bumble and bumble',2
+14861,'BRAND','DevaCurl',3
+14861,'BRAND','Frederic Fekkai',4
+14861,'BRAND','Kiehl's Since 1851',5
+14861,'BRAND','MALIN+GOETZ',6
+14861,'BRAND','Michael Van Clark',7
+14861,'BRAND','Oscar Blandi',8
+14861,'BRAND','Philip B',9
+14861,'BRAND','T3',10
+14716,'BRAND','Armani',1
+14716,'BRAND','Cartier',2
+14716,'BRAND','Chloé',3
+14716,'BRAND','Gucci' ,4
+14716,'BRAND','Marc Jacobs',5
+14716,'BRAND','Dior',6
+14716,'BRAND','Dolce&Gabbana',7
+14716,'BRAND','Tom Ford',8
+14716,'BRAND','Tory Burch',9
+14716,'BRAND','Viktor & Rolf',10
+1001521,'BRAND','AQUA',1
+1001521,'BRAND','BOSS Hugo Boss',2
+1001521,'BRAND','Burberry',3
+1001521,'BRAND','DIANE von FURSTENBERG',4
+1001521,'BRAND','Free People',5
+1001521,'BRAND','Helmut Lang',6
+1001521,'BRAND','Ralph Lauren',7
+1001521,'BRAND','REISS',8
+1001521,'BRAND','Theory',9
+1001521,'BRAND','Vince',10
+1001520,'BRAND','Barbour',1
+1001520,'BRAND','Burberry',2
+1001520,'BRAND','Calvin Klein',3
+1001520,'BRAND','Canada Goose',4
+1001520,'BRAND','DKNY',5
+1001520,'BRAND','Mackage',6
+1001520,'BRAND','Marc New York',7
+1001520,'BRAND','Maximilian',8
+1001520,'BRAND','Moncler',9
+1001520,'BRAND','The North Face®',10
+5545,'BRAND','7 For All Mankind',1
+5545,'BRAND','AG Adriano Goldschmied',2
+5545,'BRAND','Citizens of Humanity',3
+5545,'BRAND','DL1961',4
+5545,'BRAND','Hudson',5
+5545,'BRAND','J Brand',6
+5545,'BRAND','NYDJ',7
+5545,'BRAND','Paige Denim',8
+5545,'BRAND','rag & bone/JEAN',9
+5545,'BRAND','True Religion',10
+21683,'BRAND','Alice + Olivia',1
+21683,'BRAND','AQUA',2
+21683,'BRAND','BCBGMAXAZRIA',3
+21683,'BRAND','DIANE von FURSTENBERG',4
+21683,'BRAND','Free People',5
+21683,'BRAND','HALSTON HERITAGE',6
+21683,'BRAND','Laundry by Shelli Segal',7
+21683,'BRAND','Parker',8
+21683,'BRAND','Ralph Lauren',9
+21683,'BRAND','Tadashi Shoji',10
+11817,'BRAND','ALTERNATIVE',1
+11817,'BRAND','AQUA',2
+11817,'BRAND','C&C California',3
+11817,'BRAND','Calvin Klein',4
+11817,'BRAND','Eileen Fisher',5
+11817,'BRAND','Peace Love World',6
+11817,'BRAND','Soft Joie',7
+11817,'BRAND','SPANX® ACTIVE',8
+11817,'BRAND','Splendid',9
+11817,'BRAND','WILDFOX',10
+17566,'BRAND','7 For All Mankind',1
+17566,'BRAND','AG Adriano Goldschmied',2
+17566,'BRAND','Eileen Fisher',3
+17566,'BRAND','Helmut Lang',4
+17566,'BRAND','J Brand',5
+17566,'BRAND','rag & bone/JEAN',6
+17566,'BRAND','Ralph Lauren',7
+17566,'BRAND','Ted Baker',8
+17566,'BRAND','Theory',9
+17566,'BRAND','Vince',10
+1000662,'BRAND','Alice + Olivia',1
+1000662,'BRAND','AQUA',2
+1000662,'BRAND','Clover Canyon',3
+1000662,'BRAND','DIANE von FURSTENBERG',4
+1000662,'BRAND','Free People',5
+1000662,'BRAND','J Brand',6
+1000662,'BRAND','Maje',7
+1000662,'BRAND','MARC BY MARC JACOBS',8
+1000662,'BRAND','Theory',9
+1000662,'BRAND','Vince',10
+10527,'BRAND','Armani Collezioni',1
+10527,'BRAND','BOSS Hugo Boss',2
+10527,'BRAND','Calvin Klein',3
+10527,'BRAND','DIANE von FURSTENBERG',4
+10527,'BRAND','Elie Tahari',5
+10527,'BRAND','Jones New York Collection',6
+10527,'BRAND','Ralph Lauren',7
+10527,'BRAND','REISS',8
+10527,'BRAND','Theory',9
+10527,'BRAND','VINCE CAMUTO',10
+12374,'BRAND','AQUA',1
+12374,'BRAND','Burberry',2
+12374,'BRAND','Eileen Fisher',3
+12374,'BRAND','Free People',4
+12374,'BRAND','Helmut Lang',5
+12374,'BRAND','Joie',6
+12374,'BRAND','MARC BY MARC JACOBS',7
+12374,'BRAND','Ralph Lauren',8
+12374,'BRAND','REISS',9
+12374,'BRAND','Theory',10
+12374,'BRAND','Vince',11
+5609,'BRAND','Gottex',1
+5609,'BRAND','L*Space',2
+5609,'BRAND','Mara Hoffman',3
+5609,'BRAND','Nanette Lepore',4
+5609,'BRAND','Profile by Gottex',5
+5609,'BRAND','Ralph Lauren',6
+5609,'BRAND','Splendid',7
+5609,'BRAND','Tory Burch',8
+5609,'BRAND','Trina Turk',9
+5609,'BRAND','ViX',10
+5619,'BRAND','AQUA',1
+5619,'BRAND','Burberry',2
+5619,'BRAND','DIANE von FURSTENBERG',3
+5619,'BRAND','Eileen Fisher',4
+5619,'BRAND','Free People',5
+5619,'BRAND','Joie',6
+5619,'BRAND','Ralph Lauren',7
+5619,'BRAND','Splendid',8
+5619,'BRAND','Theory',9
+5619,'BRAND','Vince',10
+1001037,'BRAND','Burberry',1
+1001037,'BRAND','Ralph Lauren',2
+1001037,'BRAND','Theory',3
+1001037,'BRAND','DIANE von FURSTENBERG',4
+1001037,'BRAND','AQUA',5
+1001037,'BRAND','Eileen Fisher',6
+1001037,'BRAND','Vince',7
+1001037,'BRAND','J Brand',8
+1001037,'BRAND','Free People',9
+1001037,'BRAND','Joie',10
+1001037,'BRAND','FRENCH CONNECTION',11
+1001037,'BRAND','Trina Turk',12
+1001037,'BRAND','Alice + Olivia',13
+1001037,'BRAND','AG Adriano Goldschmied',14
+1001037,'BRAND','Splendid',15
+1001037,'BRAND','Tory Burch',16
+1001037,'BRAND','DKNY',17
+1001039,'BRAND','Burberry',1
+1001039,'BRAND','Ralph Lauren',2
+1001039,'BRAND','Theory',3
+1001039,'BRAND','DIANE von FURSTENBERG',4
+1001039,'BRAND','AQUA',5
+1001039,'BRAND','Eileen Fisher',6
+1001039,'BRAND','Vince',7
+1001039,'BRAND','J Brand',8
+1001039,'BRAND','Free People',9
+1001039,'BRAND','Joie',10
+1001039,'BRAND','FRENCH CONNECTION',11
+1001039,'BRAND','Trina Turk',12
+1001039,'BRAND','Alice + Olivia',13
+1001039,'BRAND','AG Adriano Goldschmied',14
+1001039,'BRAND','Splendid',15
+1001039,'BRAND','Tory Burch',16
+1001039,'BRAND','DKNY',17
+1001523,'BRAND','Alice + Olivia',1
+1001523,'BRAND','AQUA',2
+1001523,'BRAND','Burberry',3
+1001523,'BRAND','DIANE von FURSTENBERG',4
+1001523,'BRAND','Free People',5
+1001523,'BRAND','Helmut Lang',6
+1001523,'BRAND','Maje',7
+1001523,'BRAND','REISS',8
+1001523,'BRAND','Theory',9
+1001523,'BRAND','Vince',10
+1001522,'BRAND','Andrew Marc',1
+1001522,'BRAND','Barbour',2
+1001522,'BRAND','Burberry',3
+1001522,'BRAND','Canada Goose',4
+1001522,'BRAND','Mackage',5
+1001522,'BRAND','Marc New York',6
+1001522,'BRAND','Moncler',7
+1001522,'BRAND','SAM.',8
+1001522,'BRAND','The North Face®',9
+1001522,'BRAND','Trina Turk',10
+8573,'BRAND','7 For All Mankind',1
+8573,'BRAND','AG Adriano Goldschmied',2
+8573,'BRAND','Citizens of Humanity',3
+8573,'BRAND','DL1961',4
+8573,'BRAND','Hudson',5
+8573,'BRAND','J Brand',6
+8573,'BRAND','Joe's Jeans',7
+8573,'BRAND','Paige Denim',8
+8573,'BRAND','rag & bone/JEAN',9
+8573,'BRAND','True Religion',10
+8608,'BRAND','Alice + Olivia',1
+8608,'BRAND','AQUA',2
+8608,'BRAND','BCBGMAXAZRIA',3
+8608,'BRAND','DIANE von FURSTENBERG',4
+8608,'BRAND','Free People',5
+8608,'BRAND','FRENCH CONNECTION',6
+8608,'BRAND','Laundry by Shelli Segal',7
+8608,'BRAND','Parker',8
+8608,'BRAND','Theory',9
+8608,'BRAND','Trina Turk',10
+8613,'BRAND','ALTERNATIVE',1
+8613,'BRAND','AQUA',2
+8613,'BRAND','C&C California',3
+8613,'BRAND','Moving Comfort',4
+8613,'BRAND','Peace Love World',5
+8613,'BRAND','Phat Buddha',6
+8613,'BRAND','Soft Joie',7
+8613,'BRAND','SPANX® ACTIVE',8
+8613,'BRAND','Splendid',9
+8613,'BRAND','WILDFOX',10
+5451,'BRAND','7 For All Mankind',1
+5451,'BRAND','AG Adriano Goldschmied',2
+5451,'BRAND','AQUA',3
+5451,'BRAND','Citizens of Humanity',4
+5451,'BRAND','Helmut Lang',5
+5451,'BRAND','J Brand',6
+5451,'BRAND','Paige Denim',7
+5451,'BRAND','rag & bone/JEAN',8
+5451,'BRAND','Theory',9
+5451,'BRAND','Vince',10
+1000660,'BRAND','Alice + Olivia',1
+1000660,'BRAND','AQUA',2
+1000660,'BRAND','Clover Canyon',3
+1000660,'BRAND','DIANE von FURSTENBERG',4
+1000660,'BRAND','Free People',5
+1000660,'BRAND','J Brand',6
+1000660,'BRAND','Maje',7
+1000660,'BRAND','MARC BY MARC JACOBS',8
+1000660,'BRAND','Theory',9
+1000660,'BRAND','Vince',10
+2941,'BRAND','Alice + Olivia',1
+2941,'BRAND','AQUA',2
+2941,'BRAND','Armani Collezioni',3
+2941,'BRAND','BCBGMAXAZRIA',4
+2941,'BRAND','Burberry',5
+2941,'BRAND','DIANE von FURSTENBERG',6
+2941,'BRAND','Helmut Lang',7
+2941,'BRAND','REISS',8
+2941,'BRAND','Theory',9
+2941,'BRAND','Vince',10
+12629,'BRAND','Alice + Olivia',1
+12629,'BRAND','AQUA',2
+12629,'BRAND','Free People',3
+12629,'BRAND','Joie',4
+12629,'BRAND','Maje',5
+12629,'BRAND','MARC BY MARC JACOBS',6
+12629,'BRAND','REISS',7
+12629,'BRAND','Splendid',8
+12629,'BRAND','Theory',9
+12629,'BRAND','Vince',10
+8722,'BRAND','BECCA® by Rebecca Virtue',1
+8722,'BRAND','Juicy Couture',2
+8722,'BRAND','L*Space',3
+8722,'BRAND','Mara Hoffman',4
+8722,'BRAND','Nanette Lepore',5
+8722,'BRAND','PilyQ',6
+8722,'BRAND','Splendid',7
+8722,'BRAND','Tory Burch',8
+8722,'BRAND','Trina Turk',9
+8722,'BRAND','ViX',10
+10026,'BRAND','AQUA',1
+10026,'BRAND','DIANE von FURSTENBERG',2
+10026,'BRAND','Equipment',3
+10026,'BRAND','Free People',4
+10026,'BRAND','Helmut Lang',5
+10026,'BRAND','Joie',6
+10026,'BRAND','Splendid',7
+10026,'BRAND','Theory',8
+10026,'BRAND','Velvet by Graham & Spencer',9
+10026,'BRAND','Vince',10
+1001038,'BRAND','Theory',1
+1001038,'BRAND','DIANE von FURSTENBERG',2
+1001038,'BRAND','AQUA',3
+1001038,'BRAND','Vince',4
+1001038,'BRAND','J Brand',5
+1001038,'BRAND','Free People',6
+1001038,'BRAND','Joie',7
+1001038,'BRAND','Alice + Olivia',8
+1001038,'BRAND','AG Adriano Goldschmied',9
+1001038,'BRAND','Splendid',10
+1001038,'BRAND','7 for All Mankind',11
+1001038,'BRAND','Paige Denim',12
+1001038,'BRAND','Helmut Lang',13
+1001038,'BRAND','MARC BY MARC JACOBS',14
+1001038,'BRAND','Citizens of Humanity',15
+1001038,'BRAND','Hudson',16
+1001038,'BRAND','rag & bone/JEAN',17
+1001038,'BRAND','Soft Joie',18
+1001038,'BRAND','Parker',19
+1001038,'BRAND','Rebecca Taylor',20
+1001040,'BRAND','Theory',1
+1001040,'BRAND','DIANE von FURSTENBERG',2
+1001040,'BRAND','AQUA',3
+1001040,'BRAND','Vince',4
+1001040,'BRAND','J Brand',5
+1001040,'BRAND','Free People',6
+1001040,'BRAND','Joie',7
+1001040,'BRAND','Alice + Olivia',8
+1001040,'BRAND','AG Adriano Goldschmied',9
+1001040,'BRAND','Splendid',10
+1001040,'BRAND','7 for All Mankind',11
+1001040,'BRAND','Paige Denim',12
+1001040,'BRAND','Helmut Lang',13
+1001040,'BRAND','MARC BY MARC JACOBS',14
+1001040,'BRAND','Citizens of Humanity',15
+1001040,'BRAND','Hudson',16
+1001040,'BRAND','rag & bone/JEAN',17
+1001040,'BRAND','Soft Joie',18
+1001040,'BRAND','Parker',19
+1001040,'BRAND','Rebecca Taylor',20
+2917,'BRAND','Calvin Klein Plus',1
+2917,'BRAND','DKNYC Plus',2
+2917,'BRAND','Eileen Fisher Plus',3
+2917,'BRAND','Karen Kane Plus',4
+2917,'BRAND','Lafayette 148 New York Plus',5
+2917,'BRAND','Melissa Masse Plus',6
+2917,'BRAND','MICHAEL Michael Kors Plus',7
+2917,'BRAND','NYDJ',8
+2917,'BRAND','Ralph Lauren',9
+2917,'BRAND','VINCE CAMUTO Plus',10
+22108,'BRAND','David Yurman',1
+22108,'BRAND','Fredrique Constant',2
+22108,'BRAND','Gucci',3
+22108,'BRAND','HUGO BOSS',4
+22108,'BRAND','Movado',5
+22108,'BRAND','Movado Bold',6
+22108,'BRAND','Philip Stein',7
+22108,'BRAND','Raymore Weil',8
+22108,'BRAND','TAG Heuer',9
+22108,'BRAND','Salvatore Ferragamo',10
+20548,'BRAND','Bloomingdale's',1
+20548,'BRAND','Charriol',2
+20548,'BRAND','David Yurman',3
+20548,'BRAND','Gucci',4
+20548,'BRAND','IPPOLITA',5
+20548,'BRAND','John Hardy',6
+20548,'BRAND','Lagos',7
+20548,'BRAND','Lana Jewelry',8
+20548,'BRAND','Marco Bicego',9
+20548,'BRAND','Roberto Coin',10
+17804,'BRAND','Bloomingdale's',1
+17804,'BRAND','Charriol',2
+17804,'BRAND','David Yurman',3
+17804,'BRAND','Gucci',4
+17804,'BRAND','IPPOLITA',5
+17804,'BRAND','John Hardy',6
+17804,'BRAND','Lagos',7
+17804,'BRAND','Marco Bicego',8
+17804,'BRAND','Meira T',9
+17804,'BRAND','Roberto Coin',10
+17806,'BRAND','Bloomingdale's',1
+17806,'BRAND','Charriol',2
+17806,'BRAND','David Yurman',3
+17806,'BRAND','Gucci',4
+17806,'BRAND','IPPOLITA',5
+17806,'BRAND','John Hardy',6
+17806,'BRAND','Khai Khai',7
+17806,'BRAND','Lagos',8
+17806,'BRAND','Marco Bicego',9
+17806,'BRAND','Meira T',10
+17805,'BRAND','Bloomingdale's',1
+17805,'BRAND','David Yurman',2
+17805,'BRAND','Gucci',3
+17805,'BRAND','IPPOLITA',4
+17805,'BRAND','John Hardy',5
+17805,'BRAND','Lagos',6
+17805,'BRAND','Marco Bicego',7
+17805,'BRAND','Meira T',8
+17805,'BRAND','Roberto Coin',9
+17805,'BRAND','Temple St. Clair',10
+1000931,'BRAND','Bloomingdale's',1
+1000931,'BRAND','Charriol',2
+1000931,'BRAND','David Yurman',3
+1000931,'BRAND','Gucci',4
+1000931,'BRAND','IPPOLITA',5
+1000931,'BRAND','John Hardy',6
+1000931,'BRAND','Lagos',7
+1000931,'BRAND','Marco Bicego',8
+1000931,'BRAND','Roberto Coin',9
+1000931,'BRAND','TAG Heuer',10

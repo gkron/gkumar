@@ -1,0 +1,24 @@
+host: "11.120.100.34"
+port: "1521"
+sid: "bsd8"
+username: "saturn"
+password: "saturn"
+url: "http://11.120.149.218:8180/saturn/"
+tenant: "MCOM"
+regression: false
+stellahost: 11.120.100.34
+stellasid: bsd8
+stellausername: "macys"
+stellapassword: "macys"
+astrahost: "11.120.100.34"
+astrasid: "bsd6"
+astrausername: "cmsusr"
+astrapassword: "cmsusr"   
+attrservicehost : 11.120.101.71
+attrservicesid : int12
+attrserviceusername : stars_attr
+attrservicepwd : stars_attr
+sitetenant: MCOM 
+url1: "http://11.120.149.223:8180/saturn/"
+setenv: "cell5mcom"
+stellaui: "http://11.120.149.218:8080/UI/Common/Html/Login.jsp"

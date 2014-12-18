@@ -1,0 +1,23 @@
+host: "dml1-scan"
+port: "1521"
+username: "saturn"
+password: "saturn"
+url: "http://11.120.149.41:8080/saturn"
+tenant: "BCOM"
+sid: "dpmqas01"
+regression: true
+stellahost: dml1-scan
+stellasid: "dpmqa01"
+stellausername: "macys"
+stellapassword: "macys"
+astrahost: "11.120.115.39"
+astrasid: "dpmqa02"
+astrausername: "bcmsusr"
+astrapassword: "bcmsusr"  
+attrservicehost : dml1-scan
+attrservicesid : dpmqas01
+attrserviceusername : stars_attr
+attrservicepwd : stars_attr
+sitetenant : BCOM
+url1: "http://11.120.149.41:8180/saturn/" 
+stellaui: "http://11.120.149.42:8080/UI/Common/Html/Login.jsp"

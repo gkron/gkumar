@@ -1,0 +1,16 @@
+host: "11.120.101.204"
+port: "1521"
+sid: "stelladev"
+username: "saturn"
+password: "saturn"
+url: "http://11.120.101.105:8080/saturn"
+tenant: "MCOM"
+regression: false
+stellahost: 11.120.100.34
+stellasid: bsd8
+stellausername: "macys"
+stellapassword: "macys"
+astrahost: "11.120.100.34"
+astrasid: "bsd6"
+astrausername: "cmsusr"
+astrapassword: "cmsusr"   

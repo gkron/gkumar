@@ -1,0 +1,28 @@
+global_menu_item: //div[@id='globalMastheadCategoryMenu']/ul/li
+subcategoty_products: //div[@id='localNavigationContainer']/ul/li[@class='nav_cat_item_bold']
+rating_review: //div[@class='pdpreviews']
+facet: //div[@class='facet']//ul/li/span
+nav_category: //div[@class='subCatList']/div
+login_module: //*[@class='loginFormDiv']
+login_user: j_username
+login_password: j_password
+login_button: Login
+#saturn Home page
+navigation_search: //*[@id='mNavSrch']
+menu_1: LINGUISTICS
+menu_2: RULES
+menu_3: ADMINISTRATION
+menu_4: HELP
+menu_5: SEARCH
+select_trigger: //div[@id='divTrigger0']
+create_rule: //div[@class='subHeader clearfix']
+rules_module: //div[@class='subSection clearfix']
+resultset_attid: dropdownResultSetTrigger0_0
+resultset_tagbox_id: tagBox-item-content
+resultset_logical: logicalDropdownResultSetTrigger0_0
+resultset_percentage: inputPercent0_0
+rule_detail_page: //*[@id='mPage']
+percentage_field:   inputPercent0_0
+base_url: http://11.120.101.208:8080/saturn/login
+duplicate_relationship_error: //*[@id='addRelationDiv']/div/div/ul/li[text()='Duplicate relationship']
+invalid_relationship_error:  //*[@id='addRelationDiv']/div/div/ul/li[text()='Invalid Input - The relationship you are trying to create is invalid because there is an opposite hypernym relationship already existing in the system']

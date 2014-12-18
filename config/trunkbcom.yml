@@ -1,0 +1,23 @@
+host: "mdc2vr4229"
+port: "1521"
+sid: "ci213"
+username: "saturn"
+password: "saturn"
+url: "http://11.120.101.76:8180/saturn/"
+tenant: "BCOM"
+regression: false
+stellahost: mdc2vr4214
+stellasid: ci214
+stellausername: "macys"
+stellapassword: "macys"
+astrahost: "11.120.100.34"
+astrasid: "bsd6"
+astrausername: "bcmsusr"
+astrapassword: "bcmsusr"   
+attrservicehost : 11.120.101.71
+attrservicesid : int12
+attrserviceusername : stars_attr
+attrservicepwd : stars_attr
+sitetenant : BCOM 
+url1: "http://11.120.101.30:8180/saturn/"
+stellaui: "http://11.120.101.76:8080/UI/Common/Html/Login.jsp"

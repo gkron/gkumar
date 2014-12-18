@@ -1,0 +1,24 @@
+host: "mdc2vr4214"
+port: "1521"
+sid: "ci214"
+username: "saturn"
+password: "saturn"
+url: "http://11.120.101.207:8080/saturn/"
+tenant: "MCOM"
+regression: false
+stellahost: mdc2vr4213
+stellasid: ci213
+stellausername: "macys"
+stellapassword: "macys"
+astrahost: "11.120.100.34"
+astrasid: "bsd6"
+astrausername: "cmsusr"
+astrapassword: "cmsusr"   
+attrservicehost : 11.120.101.71
+attrservicesid : int12
+attrserviceusername : stars_attr
+attrservicepwd : stars_attr
+sitetenant: MCOM 
+url1: "http://11.120.101.208:8080/saturn/login"
+stellaui: "http://11.120.101.30:8080/UI/Common/Html/Login.jsp"
+

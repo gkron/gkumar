@@ -1,0 +1,7 @@
+host: "11.120.101.235"
+port: "1521"
+sid: "stelladev"
+username: "saturn"
+password: "saturn"
+url: "http://11.120.101.226:8080/saturn"
+regression: false
